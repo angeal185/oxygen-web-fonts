@@ -23,7 +23,7 @@
 @font-face {
   font-family: 'Oxygen-Medium';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   src: url('../fonts/oxygen/medium/Oxygen-Medium.eot');
   src: url('../fonts/oxygen/medium/Oxygen-Medium.woff2') format('woff2'),
        url('../fonts/oxygen/medium/Oxygen-Medium.woff') format('woff'),
@@ -34,7 +34,7 @@
 @font-face {
   font-family: 'Oxygen-Heavy';
   font-style: normal;
-  font-weight: 800;
+  font-weight: 900;
   src: url('../fonts/oxygen/heavy/Oxygen-Heavy.eot');
   src: url('../fonts/oxygen/heavy/Oxygen-Heavy.woff2') format('woff2'),
        url('../fonts/oxygen/heavy/Oxygen-Heavy.woff') format('woff'),
