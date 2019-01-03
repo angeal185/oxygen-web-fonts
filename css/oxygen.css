@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/oxygen/regular/Oxygen.eot');
+  src: url('../fonts/oxygen/regular/Oxygen.woff2') format('woff2'),
+       url('../fonts/oxygen/regular/Oxygen.woff') format('woff'),
+       url('../fonts/oxygen/regular/Oxygen.ttf')  format('truetype'),
+       url('../fonts/oxygen/regular/Oxygen.svg#Oxygen') format('svg');
+}
+
+@font-face {
+  font-family: 'Oxygen-Light';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/oxygen/light/Oxygen-Light.eot');
+  src: url('../fonts/oxygen/light/Oxygen-Light.woff2') format('woff2'),
+       url('../fonts/oxygen/light/Oxygen-Light.woff') format('woff'),
+       url('../fonts/oxygen/light/Oxygen-Light.ttf')  format('truetype'),
+       url('../fonts/oxygen/light/Oxygen-Light.svg#Oxygen-Light') format('svg');
+}
+
+@font-face {
+  font-family: 'Oxygen-Medium';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/oxygen/medium/Oxygen-Medium.eot');
+  src: url('../fonts/oxygen/medium/Oxygen-Medium.woff2') format('woff2'),
+       url('../fonts/oxygen/medium/Oxygen-Medium.woff') format('woff'),
+       url('../fonts/oxygen/medium/Oxygen-Medium.ttf')  format('truetype'),
+       url('../fonts/oxygen/medium/Oxygen-Medium.svg#Oxygen-Medium') format('svg');
+}
+
+@font-face {
+  font-family: 'Oxygen-Heavy';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/oxygen/heavy/Oxygen-Heavy.eot');
+  src: url('../fonts/oxygen/heavy/Oxygen-Heavy.woff2') format('woff2'),
+       url('../fonts/oxygen/heavy/Oxygen-Heavy.woff') format('woff'),
+       url('../fonts/oxygen/heavy/Oxygen-Heavy.ttf')  format('truetype'),
+       url('../fonts/oxygen/heavy/Oxygen-Heavy.svg#Oxygen-Heavy') format('svg');
+}
+
+@font-face {
+  font-family: 'Oxygen-Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/oxygen/bold/Oxygen-Bold.eot');
+  src: url('../fonts/oxygen/bold/Oxygen-Bold.woff2') format('woff2'),
+       url('../fonts/oxygen/bold/Oxygen-Bold.woff') format('woff'),
+       url('../fonts/oxygen/bold/Oxygen-Bold.ttf')  format('truetype'),
+       url('../fonts/oxygen/bold/Oxygen-Bold.svg#Oxygen-Bold') format('svg');
+}
